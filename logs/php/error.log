@@ -1,1 +1,8 @@
 [07-May-2024 08:45:37 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\User\Local Sites\unreal-university\app\public\wp-content\themes\unreal-university-theme\index.php on line 5
+[07-May-2024 12:04:28 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "x" in C:\Users\User\Local Sites\unreal-university\app\public\wp-content\themes\unreal-university-theme\page.php:23
+Stack trace:
+#0 C:\Users\User\Local Sites\unreal-university\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\User\Local Sites\unreal-university\app\public\wp-blog-header.php(19): require_once('C:\\Users\\User\\L...')
+#2 C:\Users\User\Local Sites\unreal-university\app\public\index.php(17): require('C:\\Users\\User\\L...')
+#3 {main}
+  thrown in C:\Users\User\Local Sites\unreal-university\app\public\wp-content\themes\unreal-university-theme\page.php on line 23
