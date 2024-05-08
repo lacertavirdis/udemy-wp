@@ -13,3 +13,13 @@ Stack trace:
 #2 C:\Users\User\Local Sites\unreal-university\app\public\index.php(17): require('C:\\Users\\User\\L...')
 #3 {main}
   thrown in C:\Users\User\Local Sites\unreal-university\app\public\wp-content\themes\unreal-university-theme\archive.php on line 9
+[08-May-2024 09:46:30 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "university_post_types" not found or invalid function name in C:\Users\User\Local Sites\unreal-university\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\User\Local Sites\unreal-university\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\User\Local Sites\unreal-university\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\User\Local Sites\unreal-university\app\public\wp-settings.php(695): do_action('init')
+#3 C:\Users\User\Local Sites\unreal-university\app\public\wp-config.php(103): require_once('C:\\Users\\User\\L...')
+#4 C:\Users\User\Local Sites\unreal-university\app\public\wp-load.php(50): require_once('C:\\Users\\User\\L...')
+#5 C:\Users\User\Local Sites\unreal-university\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\User\\L...')
+#6 {main}
+  thrown in C:\Users\User\Local Sites\unreal-university\app\public\wp-includes\class-wp-hook.php on line 324
