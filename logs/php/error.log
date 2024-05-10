@@ -23,3 +23,17 @@ Stack trace:
 #5 C:\Users\User\Local Sites\unreal-university\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\User\\L...')
 #6 {main}
   thrown in C:\Users\User\Local Sites\unreal-university\app\public\wp-includes\class-wp-hook.php on line 324
+[10-May-2024 08:16:52 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function add_image_size(), 0 passed in C:\Users\User\Local Sites\unreal-university\app\public\wp-content\themes\unreal-university-theme\functions.php on line 14 and at least 1 expected in C:\Users\User\Local Sites\unreal-university\app\public\wp-includes\media.php:295
+Stack trace:
+#0 C:\Users\User\Local Sites\unreal-university\app\public\wp-content\themes\unreal-university-theme\functions.php(14): add_image_size()
+#1 C:\Users\User\Local Sites\unreal-university\app\public\wp-includes\class-wp-hook.php(324): university_features('')
+#2 C:\Users\User\Local Sites\unreal-university\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\User\Local Sites\unreal-university\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\User\Local Sites\unreal-university\app\public\wp-settings.php(673): do_action('after_setup_the...')
+#5 C:\Users\User\Local Sites\unreal-university\app\public\wp-config.php(103): require_once('C:\\Users\\User\\L...')
+#6 C:\Users\User\Local Sites\unreal-university\app\public\wp-load.php(50): require_once('C:\\Users\\User\\L...')
+#7 C:\Users\User\Local Sites\unreal-university\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\User\\L...')
+#8 {main}
+  thrown in C:\Users\User\Local Sites\unreal-university\app\public\wp-includes\media.php on line 295
+[10-May-2024 08:27:51 UTC] PHP Warning:  Undefined array key "size" in C:\Users\User\Local Sites\unreal-university\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropEditorWindow.php on line 39
+[10-May-2024 08:46:33 UTC] PHP Warning:  Undefined array key "size" in C:\Users\User\Local Sites\unreal-university\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropEditorWindow.php on line 39
