@@ -37,3 +37,17 @@ Stack trace:
   thrown in C:\Users\User\Local Sites\unreal-university\app\public\wp-includes\media.php on line 295
 [10-May-2024 08:27:51 UTC] PHP Warning:  Undefined array key "size" in C:\Users\User\Local Sites\unreal-university\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropEditorWindow.php on line 39
 [10-May-2024 08:46:33 UTC] PHP Warning:  Undefined array key "size" in C:\Users\User\Local Sites\unreal-university\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropEditorWindow.php on line 39
+[10-May-2024 09:12:27 UTC] PHP Warning:  Undefined array key "photo" in C:\Users\User\Local Sites\unreal-university\app\public\wp-content\themes\unreal-university-theme\functions.php on line 9
+[10-May-2024 09:13:18 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\unreal-university\app\public\wp-content\themes\unreal-university-theme\functions.php on line 3
+[10-May-2024 09:13:18 UTC] PHP Warning:  Undefined array key "subtitle" in C:\Users\User\Local Sites\unreal-university\app\public\wp-content\themes\unreal-university-theme\functions.php on line 6
+[10-May-2024 09:13:18 UTC] PHP Warning:  Undefined array key "photo" in C:\Users\User\Local Sites\unreal-university\app\public\wp-content\themes\unreal-university-theme\functions.php on line 9
+[10-May-2024 09:13:50 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\unreal-university\app\public\wp-content\themes\unreal-university-theme\functions.php on line 3
+[10-May-2024 09:13:50 UTC] PHP Warning:  Undefined array key "subtitle" in C:\Users\User\Local Sites\unreal-university\app\public\wp-content\themes\unreal-university-theme\functions.php on line 6
+[10-May-2024 09:13:50 UTC] PHP Warning:  Undefined array key "photo" in C:\Users\User\Local Sites\unreal-university\app\public\wp-content\themes\unreal-university-theme\functions.php on line 9
+[10-May-2024 09:13:50 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\unreal-university\app\public\wp-content\themes\unreal-university-theme\functions.php on line 3
+[10-May-2024 09:13:50 UTC] PHP Warning:  Undefined array key "subtitle" in C:\Users\User\Local Sites\unreal-university\app\public\wp-content\themes\unreal-university-theme\functions.php on line 6
+[10-May-2024 09:13:50 UTC] PHP Warning:  Undefined array key "photo" in C:\Users\User\Local Sites\unreal-university\app\public\wp-content\themes\unreal-university-theme\functions.php on line 9
+[10-May-2024 09:13:51 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\User\Local Sites\unreal-university\app\public\wp-content\themes\unreal-university-theme\functions.php on line 3
+[10-May-2024 09:13:51 UTC] PHP Warning:  Undefined array key "subtitle" in C:\Users\User\Local Sites\unreal-university\app\public\wp-content\themes\unreal-university-theme\functions.php on line 6
+[10-May-2024 09:13:51 UTC] PHP Warning:  Undefined array key "photo" in C:\Users\User\Local Sites\unreal-university\app\public\wp-content\themes\unreal-university-theme\functions.php on line 9
+[10-May-2024 09:27:36 UTC] PHP Warning:  Undefined array key "size" in C:\Users\User\Local Sites\unreal-university\app\public\wp-content\plugins\manual-image-crop\lib\ManualImageCropEditorWindow.php on line 39
