@@ -73,3 +73,9 @@ Stack trace:
 #11 C:\Users\User\Local Sites\unreal-university\app\public\index.php(17): require('C:\\Users\\User\\L...')
 #12 {main}
   thrown in C:\Users\User\Local Sites\unreal-university\app\public\wp-content\themes\unreal-university-theme\inc\search-route.php on line 32
+[16-May-2024 12:58:25 UTC] PHP Parse error:  syntax error, unexpected token ")" in C:\Users\User\Local Sites\unreal-university\app\public\wp-content\themes\unreal-university-theme\inc\search-route.php on line 46
+[16-May-2024 12:58:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\User\Local Sites\unreal-university\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[16-May-2024 12:58:25 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\User\Local Sites\unreal-university\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[16-May-2024 13:00:26 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\User\Local Sites\unreal-university\app\public\wp-content\themes\unreal-university-theme\inc\search-route.php on line 52
+[16-May-2024 13:01:03 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\User\Local Sites\unreal-university\app\public\wp-content\themes\unreal-university-theme\inc\search-route.php on line 52
+[16-May-2024 13:01:03 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\User\Local Sites\unreal-university\app\public\wp-content\themes\unreal-university-theme\inc\search-route.php on line 52
